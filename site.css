@@ -1,0 +1,17 @@
+body {
+	background-color:  orange;
+	background-image: url('background.gif')
+}
+
+@font-face
+			{
+  font-family: 'Gang of Three';
+  src: url('fonts/go3v2.ttf');
+			}
+
+* {
+	font-family: 'Gang Of Three';
+}
+body {
+    color: orange;
+}

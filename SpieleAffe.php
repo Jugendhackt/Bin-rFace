@@ -1,0 +1,1 @@
+<iframe src="http://www.spielaffe.de/Spiele/Spieleaffe" width="1000" height="1000" name="wert">alternativer text, falls iframe nicht unterstützt wird</iframe>
